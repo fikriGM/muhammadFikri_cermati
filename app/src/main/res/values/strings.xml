@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Muhammad Fikri</string>
+    <string name="search_string">Search ...</string>
+    <string name="no_users_found">No users found</string>
+</resources>
